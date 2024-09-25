@@ -22,3 +22,5 @@
  ~~~
 
 Mongraal ah ganado en el juego un total 718.729$.
+
+[Intro](intro.md) 
