@@ -8,7 +8,7 @@
 + MrSavage ![imatge](mrsavage.jpg) 
 + K1ng ![imatge](FaZe_K1nG.webp) 
 + Peterbot ![imatge](peterbot.avif)
-+ Nakoo ![imatge](nakoo.png)
++ Nakoo ![imatge](nakoo.png) 
 
 ~~~html
 <html>
