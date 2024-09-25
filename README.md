@@ -3,7 +3,7 @@
 ## Mongraal 
 ![imatge](https://github.com/user-attachments/assets/5d904358-bba4-4b38-a80f-5a9a9af1625c)
 
-## Mejores jugadores de fortnite 
+## Mejores jugadores de Fortnite 
 + Mongraal ![imatge](https://github.com/user-attachments/assets/77379aa8-1f57-43b5-9a7b-2b97bca58a63)
 + MrSavage ![imatge](mrsavage.jpg) 
 + K1ng ![imatge](FaZe_K1nG.webp) 
